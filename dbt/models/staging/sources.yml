@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: caso6_db
+    database: awsdatacatalog
+    schema: caso6_db
+    tables:
+      - name: flights
+        description: Vuelos crudos de AviationStack procesados por Glue ETL
+      - name: weather
+        description: Clima de Medellin de WeatherAPI procesado por Glue ETL
+      - name: delays
+        description: Incidentes de soporte de JSONPlaceholder procesados por Glue ETL
