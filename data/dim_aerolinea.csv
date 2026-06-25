@@ -1,0 +1,11 @@
+airline_iata,airline_name,total_vuelos_historico,total_retrasos_historico,pct_retraso_historico,avg_retraso_historico_min,total_cancelaciones,primera_operacion,ultima_operacion,confiabilidad
+AV,Avianca,11276,1553,13.8,26.3,1065,2026-04-01,2026-06-25,alta
+LA,Latam Airlines,3086,733,23.8,48.3,279,2026-04-01,2026-06-25,baja
+CM,Copa Airlines,2224,477,21.4,21.2,115,2026-04-01,2026-06-25,media
+AA,American Airlines,4611,926,20.1,24.8,237,2026-04-01,2026-06-25,media
+DL,Delta Air Lines,11447,2658,23.2,33.3,860,2026-04-01,2026-06-25,baja
+UA,United Airlines,5357,1336,24.9,45.4,269,2026-04-01,2026-06-25,baja
+AC,Air Canada,12238,2296,18.8,25.3,815,2026-04-01,2026-06-25,media
+TK,Turkish Airlines,13309,2313,17.4,21.3,739,2026-04-01,2026-06-25,media
+IB,Iberia,6435,1393,21.6,42.8,633,2026-04-01,2026-06-25,media
+B6,JetBlue Airways,9585,1341,14.0,20.7,1009,2026-04-01,2026-06-25,alta

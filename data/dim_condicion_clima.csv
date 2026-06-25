@@ -1,0 +1,9 @@
+condicion_texto,grupo_condicion,impacto_operativo,genera_condiciones_adversas,avg_visibility_km,avg_wind_kph,avg_chance_of_rain,avg_temp_c,frecuencia
+Despejado,soleado,bajo,0,7.5,9.1,53,22.3,69
+Parcialmente nublado,nublado,bajo,0,8.9,68.1,6,23.5,24
+Nublado,nublado,medio,0,10.9,39.9,39,24.8,53
+Lluvia ligera,lluvia,medio,1,3.5,33.3,63,14.0,102
+Lluvia fuerte,lluvia,alto,1,13.4,22.1,69,24.7,74
+Tormenta eléctrica,tormenta,alto,1,13.9,61.6,43,25.8,74
+Niebla,niebla,alto,1,9.9,14.9,25,21.6,109
+Viento fuerte,otro,medio,1,14.0,64.7,81,18.5,12

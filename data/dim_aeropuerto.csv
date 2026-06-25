@@ -1,0 +1,16 @@
+airport_iata,airport_name,ciudad,pais,vuelos_como_origen,vuelos_como_destino,total_movimientos,pct_retraso_como_origen,pct_retraso_como_destino
+BOG,El Dorado Internacional,Bogotá,Colombia,2601,3162,5763,21.5,24.1
+MDE,José María Córdova,Medellín,Colombia,575,2066,2641,25.5,29.7
+CLO,Alfonso Bonilla Aragón,Cali,Colombia,2107,1027,3134,17.6,19.1
+CTG,Rafael Núñez,Cartagena,Colombia,3188,1532,4720,17.4,14.2
+BAQ,Ernesto Cortissoz,Barranquilla,Colombia,2387,784,3171,22.2,13.4
+MIA,Miami International,Miami,USA,2205,1538,3743,19.2,15.4
+JFK,John F. Kennedy,Nueva York,USA,4762,1999,6761,23.7,26.9
+MAD,Adolfo Suárez Barajas,Madrid,España,658,2076,2734,26.4,26.1
+GRU,Guarulhos Internacional,São Paulo,Brasil,3486,2393,5879,11.3,28.3
+LIM,Jorge Chávez,Lima,Perú,4846,2777,7623,14.3,20.0
+MEX,Benito Juárez,Ciudad de México,México,3958,1370,5328,15.3,14.9
+SCL,Arturo Merino Benítez,Santiago,Chile,4798,4615,9413,15.3,21.7
+EZE,Ministro Pistarini,Buenos Aires,Argentina,4980,3471,8451,17.2,29.9
+PTY,Tocumen Internacional,Ciudad de Panamá,Panamá,1333,4374,5707,19.9,25.1
+CUN,Cancún Internacional,Cancún,México,1098,1452,2550,22.5,25.8
