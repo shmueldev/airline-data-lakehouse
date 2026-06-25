@@ -1,0 +1,57 @@
+{
+  "name": "SkyFlow Dark",
+  "dataColors": ["#00D4AA","#2E9BDA","#F39C12","#E74C3C","#9B59B6","#1ABC9C","#E67E22","#3498DB","#27AE60","#E91E63"],
+  "background": "#0D1B2A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#00D4AA",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#0D1B2A"}}}],
+        "border": [{"show": false}],
+        "fontColor": [{"solid": {"color": "#FFFFFF"}}],
+        "labelColor": [{"solid": {"color": "#FFFFFF"}}]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "calloutValue": [{"color": {"solid": {"color": "#00D4AA"}}, "fontSize": 28, "fontFamily": "Segoe UI"}],
+        "label": [{"color": {"solid": {"color": "#A0B4C8"}}, "fontSize": 11}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#A0B4C8"}}, "gridlineColor": {"solid": {"color": "#2A3F55"}}}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#A0B4C8"}}, "gridlineColor": {"solid": {"color": "#2A3F55"}}}]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#A0B4C8"}}}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#A0B4C8"}}}]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "legend": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "fontColor": [{"solid": {"color": "#FFFFFF"}}],
+        "gridColor": [{"solid": {"color": "#2A3F55"}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1E2D3D"}}}],
+        "fontColor": [{"solid": {"color": "#FFFFFF"}}]
+      }
+    }
+  }
+}
