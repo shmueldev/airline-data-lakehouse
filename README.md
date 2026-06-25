@@ -196,11 +196,11 @@ Add screenshots of your Power BI dashboards here.
 
 ### Executive Dashboard
 
-![Dashboard Placeholder](docs/images/dashboard-1.png)
+![Dashboard Placeholder](docs/images/Executive Dashboard.png)
 
 ### Operational Dashboard
 
-![Dashboard Placeholder](docs/images/dashboard-2.png)
+![Dashboard Placeholder](docs/images/Operational Dashboard.png)
 
 ---
 
