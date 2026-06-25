@@ -42,7 +42,7 @@ The solution follows a modern Lakehouse architecture, transforming raw JSON data
 > Replace the image below with your final architecture diagram.
 
 <p align="center">
-  <img src="docs/images/skyflow-architecture-banner.png" alt="Architecture Diagram" width="100%">
+  <img src="docs/images/skyflow-architecture-banner (2).png" alt="Architecture Diagram" width="100%">
 </p>
 
 ---
