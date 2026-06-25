@@ -198,9 +198,11 @@ Add screenshots of your Power BI dashboards here.
 
 ![Dashboard Placeholder](docs/images/Executive%20Dashboard.png)
 
-### Operational Dashboard
+### Operational Dashboard (EN CONSTRUCCIÓN)
 
 ![Dashboard Placeholder](docs/images/Operational%20Dashboard.png)
+#### Construcción
+![Dashboard Placeholder](docs/images/Operational%20Dashboard%20Construccion.png)
 
 ---
 
